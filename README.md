@@ -4,7 +4,7 @@
 
 A complete end-to-end data analytics project that transforms raw sales data into actionable insights using SQL Server for ETL and Power BI for visualization.
 
-## 📄 Documentation : https://docs.google.com/document/d/1Qk1ePC-WjxCekXlE9mihZVfOZyo8uALCTDG_ij9Q7Ug/edit?usp=sharing
+### 📄 Documentation : [Sales Data Analytics Project Documentation](https://docs.google.com/document/d/1Qk1ePC-WjxCekXlE9mihZVfOZyo8uALCTDG_ij9Q7Ug/edit?usp=sharing)
 ---
 ## 📌 Problem Statement
 
