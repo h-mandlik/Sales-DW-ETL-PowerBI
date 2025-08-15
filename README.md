@@ -1,6 +1,6 @@
 # Sales Data Warehouse & BI Dashboard
 
-![Power BI Dashboard](images/dashboard.gif) 
+![Power BI Dashboard](image/dashboard.gif) 
 
 A complete end-to-end data analytics project that transforms raw sales data into actionable insights using SQL Server for ETL and Power BI for visualization.
 
