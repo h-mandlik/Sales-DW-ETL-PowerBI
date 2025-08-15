@@ -1,6 +1,6 @@
 # Sales Data Warehouse & BI Dashboard
 
-![Power BI Dashboard](dashboard-screenshot.png) <!-- Optional: Add screenshot -->
+![Power BI Dashboard](images/dashboard.gif) 
 
 A complete end-to-end data analytics project that transforms raw sales data into actionable insights using SQL Server for ETL and Power BI for visualization.
 
@@ -79,36 +79,6 @@ These insights help identify growth opportunities, optimize inventory, and impro
 
 ---
 
-Sales-DW-ETL-PowerBI/
-│
-├── 1_Setup/
-│   └── create_database.sql
-│
-├── 2_Raw_Staging/
-│   ├── create_raw_table.sql
-│   ├── create_stg_table.sql
-│   └── clean_and_load_staging.sql
-│
-├── 3_Dimensional_Model/
-│   ├── dim_geography.sql
-│   ├── dim_customer.sql
-│   ├── dim_product.sql
-│   ├── dim_date.sql
-│   ├── fact_sales.sql
-│   └── load_dimensions_and_fact.sql
-│
-├── 4_PowerBI/
-│   └── Sales_Analysis.pbix
-│
-├── docs/
-│   └── dashboard_screenshot.png
-│
-├── README.md
-│
-└── .gitignore
-
----
-
 ## 🚀 How to Reproduce
 
 1. Run SQL scripts in order from `01-Setup` to `03-DW`
@@ -133,9 +103,3 @@ This project can be extended with:
 - Automated SSIS/SSAS pipeline
 - Predictive analytics (forecasting)
 - Row-Level Security (RLS) in Power BI
-
----
-
-> Prepared by: Junior Data Analyst  
-> Date: April 5, 2025  
-> Mentor: Data Analyst Manager
