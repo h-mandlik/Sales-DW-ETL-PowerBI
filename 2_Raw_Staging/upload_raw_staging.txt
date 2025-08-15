@@ -1,0 +1,9 @@
+Raw Table Import Method
+The raw.dataset table was created using SQL Server Management Studio's Import Flat File wizard.
+
+Steps: 
+
+1. Right-click database → Tasks → Import Flat File
+2. Selected sales_data_sample.csv
+3. Auto-generated raw.dataset with all columns as NVARCHAR(50) to allow NULLs
+4. Data loaded directly into raw schema
